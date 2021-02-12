@@ -1,0 +1,10 @@
+GitHub icin komutlar
+1. git config --global user.name "your name" 
+   git config --global user.email "your email"
+2. git init= git dosyasi olusturur.
+3.ls -la= klasorde var olan dosyalar ve bilgileri gosterir.
+4.git add filename(index.html)= gostermek istediigimiz dosya
+5.git add . = butun dosyalari eklenir.
+6.git status= dosyanin durumu
+7.git commit -m"ilk commit"
+8.git log
